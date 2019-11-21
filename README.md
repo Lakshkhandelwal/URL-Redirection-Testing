@@ -11,4 +11,8 @@ Caution : Do not rename the input file or exe file.
 
 # Instructions for executing the program.
 1. The program is dependent on the requests library so install that using pip.
-2. Execute the program from cmd specifyiong the input file as a parameter.
+2. Execute the program from cmd specifying the input file as a parameter.
+  command - python urlredirect.py <name of the input file>.
+  
+  
+  ![Image of cmd1](https://raw.githubusercontent.com/Lakshkhandelwal/URL-Redirection-Testing/master/images/cmd1.PNG?token=AIMORKMTSVKENO763POMTGK537C5A)
