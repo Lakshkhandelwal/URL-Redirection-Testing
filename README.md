@@ -12,7 +12,7 @@ Caution : Do not rename the input file or exe file.
 
 # Instructions for executing the program.
 1. Download or Clone the repository.
-2. The program is dependent on the requests library so install that using pip.
+2. The program is dependent on the requests library so install that using [pip](https://pypi.org/project/requests/).
 3. Create an input file in the format specified below.
 4. Execute the program from cmd specifying the input file as a parameter.
 
