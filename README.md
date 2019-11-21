@@ -16,16 +16,16 @@ Caution : Do not rename the input file or exe file.
 3. Create an input file in the format specified below.
 4. Execute the program from cmd specifying the input file as a parameter.
 
-  **Command - python urlredirect.py "name of the input file".**
+  `Command - python urlredirect.py <name of the input file>`
   
   
-  ![Image of cmd](https://raw.githubusercontent.com/Lakshkhandelwal/URL-Redirection-Testing/master/images/cmd1.PNG?token=AIMORKMTSVKENO763POMTGK537C5A)
+  ![Image of cmd](https://raw.githubusercontent.com/Lakshkhandelwal/URL-Redirection-Testing/master/images/cmd1.PNG)
 
 5. It will automatically create an output.csv file containing the output.
 
- ![Image of output](https://raw.githubusercontent.com/Lakshkhandelwal/URL-Redirection-Testing/master/images/output.png?token=AIMORKOKOSFWIPNEWSVPSH2537ER6)
+ ![Image of output](https://raw.githubusercontent.com/Lakshkhandelwal/URL-Redirection-Testing/master/images/output.png)
 
 # Input Format
 The input format that program accepts is a text file containing list of urls containg parameters at each line, the image below shows the input format.
 
-![Image of input](https://raw.githubusercontent.com/Lakshkhandelwal/URL-Redirection-Testing/master/images/input.PNG?token=AIMORKN23TZHCBP7F5ELWZK537FCA)
+![Image of input](https://raw.githubusercontent.com/Lakshkhandelwal/URL-Redirection-Testing/master/images/input.PNG)
