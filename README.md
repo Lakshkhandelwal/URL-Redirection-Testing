@@ -29,3 +29,7 @@ Caution : Do not rename the input file or exe file.
 The input format that program accepts is a text file containing list of urls containg parameters at each line, the image below shows the input format.
 
 ![Image of input](https://raw.githubusercontent.com/Lakshkhandelwal/URL-Redirection-Testing/master/images/input.PNG)
+
+
+# LICENSE
+This repository is licensed under the MIT License - see the LICENSE file for details.
