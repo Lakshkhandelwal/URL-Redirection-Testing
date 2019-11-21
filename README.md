@@ -22,3 +22,8 @@ Caution : Do not rename the input file or exe file.
 4. It will automatically create an output.csv file containing the output.
 
  ![Image of output](https://raw.githubusercontent.com/Lakshkhandelwal/URL-Redirection-Testing/master/images/output.png?token=AIMORKOKOSFWIPNEWSVPSH2537ER6)
+
+# Input Format
+The input format that program accepts is a text file containing list of urls containg parameters at each line, the image below shows the input format.
+
+![Image of input](https://raw.githubusercontent.com/Lakshkhandelwal/URL-Redirection-Testing/master/images/input.PNG?token=AIMORKN23TZHCBP7F5ELWZK537FCA)
