@@ -1,5 +1,5 @@
 # URL-Redirection-Testing
-URL Redirection is a vulnerability in which by providing the right parameter & value a bad actor can redirect the user request to any malicious website.I developed a tool to find out the URLs having the parameters that can be used for URL Redirection.
+URL Redirection is a vulnerability in which by providing the right parameter & value a bad actor can redirect the user request to any malicious website. This tool helps to find out the URLs having the parameters that can be used for URL Redirection.
 
 ## Instructions for direct execution without python or any other dependency installed.
 1. Download or Clone the repository.
